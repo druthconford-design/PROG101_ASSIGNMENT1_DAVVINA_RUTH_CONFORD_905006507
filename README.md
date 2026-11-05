@@ -1,5 +1,5 @@
 # PROG101_ASSIGNMENT1_DAVVINA_RUTH_CONFORD_905006507
-This is assignment 1 for Programming Logic and Design about The Fair Check System for public transportation in Freetown
+This is assignment 1 for Programming Logic and Design about The Fair Check System for public transportation in Freetown.
 
 ## Problem Description
 About one million people live in Freetown, and for years they have depended almost completely on informal public transport. The main options are poda-poda minibuses, shared saloon taxis, okada motorcycle taxis and keke three-wheelers. These vehicles are essential, but passengers are often unsure what they should pay. A passenger may be asked for more than the official fare, may not know that the fare has changed, or may simply pay because there is no time to argue at a busy park or on the roadside.
